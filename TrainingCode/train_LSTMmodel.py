@@ -77,11 +77,8 @@ for stream in stream_list:
         print(filename)
         continue
 
-    # Define river basin shapefiles
-    shpfile = './USGSData/Basins'
-
     # Read the gauge data - pull out the hourly data (input is every 30 minutes)
-    gTime, gHeight = Gauge.getDataAlt(filename, sdate, edate)
+    gTime, gHeight = Gauge.getData(filename, sdate, edate, g_offset)
     print('Gauge Time:', gTime[0], gTime[-1])
 
     # Now get the Precipitation and Relative Soil Moisture Data
