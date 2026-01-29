@@ -1,0 +1,212 @@
+{
+    "03574500": {
+        "name": "Paint Rock River (AL) at Woodville, AL",
+        "nws_id": "wdva1",
+        "wfo_id": "HUN"
+    },
+    "03575100": {
+        "name": "Flint River (AL) at Brownsboro, AL",
+        "nws_id": "bsba1",
+        "wfo_id": "HUN"
+    },
+    "02400680": {
+        "name": "Big Wills Creek (AL) at Fort Payne, AL",
+        "nws_id": "bgwa1",
+        "wfo_id": "HUN"
+    },
+    "03586500": {
+        "name": "Big Nance Creek (AL) at Courtland, AL",
+        "nws_id": "bnaa1",
+        "wfo_id": "HUN"
+    },
+    "01611500": {
+        "name": "Cacapon River at Great Cacapon, WV",
+        "nws_id": "gcpw2",
+        "wfo_id": "LWX"
+    },
+    "01616500": {
+        "name": "Opequon Creek at Martinsburg, WV",
+        "nws_id": "mbgw2",
+        "wfo_id": "LWX"
+    },
+    "01666500": {
+        "name": "Robinson River at Locust Dale, VA",
+        "nws_id": "locv2",
+        "wfo_id": "LWX"
+    },
+    "01594526": {
+        "name": "Western Branch at Upper Marlboro, MD",
+        "nws_id": "uprm2",
+        "wfo_id": "LWX"
+    },
+    "01585100": {
+        "name": "Whitemarsh Run at White Marsh, MD",
+        "nws_id": "whmm2",
+        "wfo_id": "LWX"
+    },
+    "02031000": {
+        "name": "Mechums River at White Hall, VA",
+        "nws_id": "mecv2",
+        "wfo_id": "LWX"
+    },
+    "01645000": {
+        "name": "Seneca Creek at Dawsonville, MD",
+        "nws_id": "dawm2",
+        "wfo_id": "LWX"
+    },
+    "01643000": {
+        "name": "Monocacy River at Frederick at Interstate 70, MD",
+        "nws_id": "fdkm2",
+        "wfo_id": "LWX"
+    },
+    "01639000": {
+        "name": "Monocacy River at Bridgeport, MD",
+        "nws_id": "bdgm2",
+        "wfo_id": "LWX"
+    },
+    "01632900": {
+        "name": "Smith Creek at New Market, VA",
+        "nws_id": "nwmv2",
+        "wfo_id": "LWX"
+    },
+    "01604500": {
+        "name": "Patterson Creek at Headsville, WV",
+        "nws_id": "hdsw2",
+        "wfo_id": "LWX"
+    },
+    "01648000": {
+        "name": "Rock Creek at Sherrill Drive/DC, DC",
+        "nws_id": "rckd2",
+        "wfo_id": "LWX"
+    },
+    "01661500": {
+        "name": "St. Marys River at Great Mills, MD",
+        "nws_id": "gmrm2",
+        "wfo_id": "LWX"
+    },
+    "01654000": {
+        "name": "Accotink Creek at Annandale, VA",
+        "nws_id": "anav2",
+        "wfo_id": "LWX"
+    },
+    "01656000": {
+        "name": "Cedar Run at Catlett, VA",
+        "nws_id": "cdrv2",
+        "wfo_id": "LWX"
+    },
+    "01625000": {
+        "name": "Middle River at Grottoes, VA",
+        "nws_id": "grov2",
+        "wfo_id": "LWX"
+    },
+    "01639500": {
+        "name": "Big Pipe Creek at Bruceville, MD",
+        "nws_id": "brum2",
+        "wfo_id": "LWX"
+    },
+    "03432350": {
+        "name": "Harpeth River at Franklin, TN",
+        "nws_id": "frat1",
+        "wfo_id": "OHX"
+    },
+    "03433500": {
+        "name": "Harpeth River at Bellevue, TN",
+        "nws_id": "belt1",
+        "wfo_id": "OHX"
+    },
+    "03428200": {
+        "name": "W. Fk. Stones River at Murfreesboro, TN",
+        "nws_id": "mugt1",
+        "wfo_id": "OHX"
+    },
+    "03427500": {
+        "name": "East Fork Stones River at Lascassas, TN",
+        "nws_id": "last1",
+        "wfo_id": "OHX"
+    },
+    "03598000": {
+        "name": "Duck River near Shelbyville, TN",
+        "nws_id": "shvt1",
+        "wfo_id": "OHX"
+    },
+    "03599500": {
+        "name": "Duck River at Columbia, TN",
+        "nws_id": "colt1",
+        "wfo_id": "OHX"
+    },
+    "03604000": {
+        "name": "Buffalo River at Flat Woods, TN",
+        "nws_id": "fltt1",
+        "wfo_id": "OHX"
+    },
+    "03602500": {
+        "name": "Piney River at Vernon, TN",
+        "nws_id": "vert1",
+        "wfo_id": "OHX"
+    },
+    "03588500": {
+        "name": "Shoal Creek at Iron City, TN",
+        "nws_id": "irct1",
+        "wfo_id": "OHX"
+    },
+    "03597590": {
+        "name": "Wartrace Creek at Wartrace, TN",
+        "nws_id": "wrtt1",
+        "wfo_id": "OHX"
+    },
+    "03469251": {
+        "name": "West Prong Little Pigeon River at Gatlinburg, TN",
+        "nws_id": "gatt1",
+        "wfo_id": "MRX"
+    },
+    "03451000": {
+        "name": "Swannanoa River at Biltmore, NC",
+        "nws_id": "bltn7",
+        "wfo_id": "GSP"
+    },
+    "03524500": {
+        "name": "Guest River at Coeburn, VA",
+        "nws_id": "gstv2",
+        "wfo_id": "MRX"
+    },
+    "03529500": {
+        "name": "Powell River at Big Stone Gap, VA",
+        "nws_id": "bsgv2",
+        "wfo_id": "MRX"
+    },
+    "03550000": {
+        "name": "Valley River at Tomotla, NC",
+        "nws_id": "tmvn7",
+        "wfo_id": "MRX"
+    },
+    "03497300": {
+        "name": "Little River (TN) at Townsend, TN",
+        "nws_id": "twnt1",
+        "wfo_id": "MRX"
+    },
+    "03485500": {
+        "name": "Doe River at Elizabethton, TN",
+        "nws_id": "doet1",
+        "wfo_id": "MRX"
+    },
+    "03478400": {
+        "name": "Beaver Creek (VA) at Bristol, VA",
+        "nws_id": "bcbv2",
+        "wfo_id": "MRX"
+    },
+    "03544970": {
+        "name": "Hiwassee River at Riverside Drive near Hiawassee, GA",
+        "nws_id": "hweg1",
+        "wfo_id": "FFC"
+    },
+    "03568933": {
+        "name": "Lookout Creek at New England, GA",
+        "nws_id": "engg1",
+        "wfo_id": "FFC"
+    },
+    "03439000": {
+        "name": "French Broad River at Rosman, NC",
+        "nws_id": "rosn7",
+        "wfo_id": "GSP"
+    }
+}
