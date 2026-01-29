@@ -1,3 +1,9 @@
+# __author__ = "Andrew White"
+# __version__ = "1.0.0"
+# __status__ = "Stable"
+# Copyright (c) 2024, Andrew White (UAH)
+# All rights reserved.
+
 import os
 import tensorflow as tf
 import numpy as np
