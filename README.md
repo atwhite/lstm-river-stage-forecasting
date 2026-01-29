@@ -1,3 +1,3 @@
 # lstm-river-stage-forecasting
 
-This code base was used to train and evaluated LSTM models for predicting stage height at various rivers across the eastern U.S.
+This is example code for training/running/evaluating basin-specific LSTM model for predicting future river stage height. Input data can be found here: https://zenodo.org/records/18406565.
